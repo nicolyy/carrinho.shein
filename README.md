@@ -1,5 +1,5 @@
 
-<img src="/img/projetoalura.png" width="100%">
+<img src="carrinhoshein.png" width="100%">
 
 ## Descrição do Projeto;
 Projeto desenvolvido como brincadeira para o meu namorado, carrinho da Shein, pagina em HTML que não deixa selecionar a opção "não"
